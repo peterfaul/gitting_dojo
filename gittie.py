@@ -1,5 +1,5 @@
 def introduce():
-    
+
     print("Hello, I'm Gittie!)
     print("Hello, I'm Gitti\n")
     print("ajda")
@@ -19,3 +19,7 @@ def add(a, b):
     print(int(a + b))
 
 add(4, 4)
+
+
+def shout():
+    print("SHOUTING")
